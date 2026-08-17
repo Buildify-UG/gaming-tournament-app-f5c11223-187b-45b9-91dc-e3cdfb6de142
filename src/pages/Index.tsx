@@ -117,8 +117,8 @@ export default function Index() {
         {/* Stats Grid */}
         <div className="grid grid-cols-4 gap-4 mb-12">
           <Card className="bg-slate-800/50 border-slate-700 p-6">
-            <div className="text-slate-400 text-sm mb-2">Active Tournaments</div>
-            <div className="text-3xl font-bold text-white">12</div>
+            <div className="text-slate-400 text-sm mb-2">Members</div>
+            <div className="text-3xl font-bold text-white">00</div>
           </Card>
           <Card className="bg-slate-800/50 border-slate-700 p-6">
             <div className="text-slate-400 text-sm mb-2">Total Players</div>
