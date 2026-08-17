@@ -122,7 +122,7 @@ export default function Index() {
           </Card>
           <Card className="bg-slate-800/50 border-slate-700 p-6">
             <div className="text-slate-400 text-sm mb-2"></div>
-            <div className="text-3xl font-bold text-white">Active player 00</div>
+            <div className="text-3xl font-bold text-white">00</div>
           </Card>
           <Card className="bg-slate-800/50 border-slate-700 p-6">
             <div className="text-slate-400 text-sm mb-2">Prize Pool</div>
